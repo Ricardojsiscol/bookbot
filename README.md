@@ -1,1 +1,1 @@
-Bookbot is a guided project in the boot.dev course
+BookBot is my first project!
